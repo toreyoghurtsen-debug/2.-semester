@@ -1,0 +1,9 @@
+C:\Users\toreo\source\repos\Budweg\Budweg\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\toreo\source\repos\Budweg\Budweg\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\toreo\source\repos\Budweg\Budweg\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\toreo\source\repos\Budweg\Budweg\obj\Debug\net10.0-windows\Budweg_MarkupCompile.cache
+C:\Users\toreo\source\repos\Budweg\Budweg\obj\Debug\net10.0-windows\Budweg.g.resources
+C:\Users\toreo\source\repos\Budweg\Budweg\obj\Debug\net10.0-windows\Budweg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toreo\source\repos\Budweg\Budweg\obj\Debug\net10.0-windows\Budweg.AssemblyInfoInputs.cache
+C:\Users\toreo\source\repos\Budweg\Budweg\obj\Debug\net10.0-windows\Budweg.AssemblyInfo.cs
+C:\Users\toreo\source\repos\Budweg\Budweg\obj\Debug\net10.0-windows\Budweg.csproj.CoreCompileInputs.cache
