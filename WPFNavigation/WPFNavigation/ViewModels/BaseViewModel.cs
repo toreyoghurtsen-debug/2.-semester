@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using System.Text;
 
+
 namespace WPFNavigation.ViewModels
 {
     public abstract class BaseViewModel : INotifyPropertyChanged

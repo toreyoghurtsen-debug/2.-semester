@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using WPFNavigation.Stores;
+using WPFNavigation.Commands;
 
 namespace WPFNavigation.ViewModels
 {

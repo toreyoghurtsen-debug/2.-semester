@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\toreo\\source\\repos\\WPFNavigation\\WPFNavigation\\WPFNavigation.csproj",
+      "projectUniqueName": "C:\\Users\\toreo\\OneDrive\\Desktop\\Git\\Git solo\\2.-semester\\WPFNavigation\\WPFNavigation\\WPFNavigation.csproj",
       "projectName": "WPFNavigation",
-      "projectPath": "C:\\Users\\toreo\\source\\repos\\WPFNavigation\\WPFNavigation\\WPFNavigation.csproj",
+      "projectPath": "C:\\Users\\toreo\\OneDrive\\Desktop\\Git\\Git solo\\2.-semester\\WPFNavigation\\WPFNavigation\\WPFNavigation.csproj",
       "packagesPath": "C:\\Users\\toreo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\toreo\\source\\repos\\WPFNavigation\\WPFNavigation\\obj\\",
+      "outputPath": "C:\\Users\\toreo\\OneDrive\\Desktop\\Git\\Git solo\\2.-semester\\WPFNavigation\\WPFNavigation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,7 +75,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

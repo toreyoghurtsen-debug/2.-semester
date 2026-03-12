@@ -4,6 +4,7 @@ using System.Text;
 using System.Windows.Input;
 using WPFNavigation.Commands;
 using WPFNavigation.Stores;
+using WPFNavigation.Services;
 
 namespace WPFNavigation.ViewModels
 {
@@ -13,7 +14,11 @@ namespace WPFNavigation.ViewModels
 
         public FirstViewModel(NavigationStore navigationStore)
         {
-            NavigateToHomeCommand = new NavigateToHomeCommand(navigationStore);
+        
+            NavigationService navigateHomeService = new NavigationService(navigationStore, () => new HomeViewModel(navigationStore));
+
+            
+            NavigateToHomeCommand = new NavigateCommand(navigateHomeService);
         }
     }
 }
