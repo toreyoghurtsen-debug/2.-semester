@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\toreo\\OneDrive\\Desktop\\Git\\Git solo\\2.-semester\\WPFNavigation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A44C261C-2FC1-D5BC-03B1-49FA0D23C949}|WPFNavigation\\WPFNavigation.csproj|c:\\users\\toreo\\onedrive\\desktop\\git\\git solo\\2.-semester\\wpfnavigation\\wpfnavigation\\stores\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44C261C-2FC1-D5BC-03B1-49FA0D23C949}|WPFNavigation\\WPFNavigation.csproj|solutionrelative:wpfnavigation\\stores\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A44C261C-2FC1-D5BC-03B1-49FA0D23C949}|WPFNavigation\\WPFNavigation.csproj|c:\\users\\toreo\\onedrive\\desktop\\git\\git solo\\2.-semester\\wpfnavigation\\wpfnavigation\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A44C261C-2FC1-D5BC-03B1-49FA0D23C949}|WPFNavigation\\WPFNavigation.csproj|solutionrelative:wpfnavigation\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A44C261C-2FC1-D5BC-03B1-49FA0D23C949}|WPFNavigation\\WPFNavigation.csproj|c:\\users\\toreo\\onedrive\\desktop\\git\\git solo\\2.-semester\\wpfnavigation\\wpfnavigation\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A44C261C-2FC1-D5BC-03B1-49FA0D23C949}|WPFNavigation\\WPFNavigation.csproj|solutionrelative:wpfnavigation\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A44C261C-2FC1-D5BC-03B1-49FA0D23C949}|WPFNavigation\\WPFNavigation.csproj|c:\\users\\toreo\\onedrive\\desktop\\git\\git solo\\2.-semester\\wpfnavigation\\wpfnavigation\\stores\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A44C261C-2FC1-D5BC-03B1-49FA0D23C949}|WPFNavigation\\WPFNavigation.csproj|solutionrelative:wpfnavigation\\stores\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A44C261C-2FC1-D5BC-03B1-49FA0D23C949}|WPFNavigation\\WPFNavigation.csproj|c:\\users\\toreo\\onedrive\\desktop\\git\\git solo\\2.-semester\\wpfnavigation\\wpfnavigation\\viewmodels\\firstviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,37 +82,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NavigateCommand.cs",
-              "DocumentMoniker": "C:\\Users\\toreo\\OneDrive\\Desktop\\Git\\Git solo\\2.-semester\\WPFNavigation\\WPFNavigation\\Commands\\NavigateCommand.cs",
-              "RelativeDocumentMoniker": "WPFNavigation\\Commands\\NavigateCommand.cs",
-              "ToolTip": "C:\\Users\\toreo\\OneDrive\\Desktop\\Git\\Git solo\\2.-semester\\WPFNavigation\\WPFNavigation\\Commands\\NavigateCommand.cs",
-              "RelativeToolTip": "WPFNavigation\\Commands\\NavigateCommand.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T07:34:19.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\toreo\\OneDrive\\Desktop\\Git\\Git solo\\2.-semester\\WPFNavigation\\WPFNavigation\\App.xaml.cs",
-              "RelativeDocumentMoniker": "WPFNavigation\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\toreo\\OneDrive\\Desktop\\Git\\Git solo\\2.-semester\\WPFNavigation\\WPFNavigation\\App.xaml.cs",
-              "RelativeToolTip": "WPFNavigation\\App.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T08:25:27.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HomeViewModel.cs",
               "DocumentMoniker": "C:\\Users\\toreo\\OneDrive\\Desktop\\Git\\Git solo\\2.-semester\\WPFNavigation\\WPFNavigation\\ViewModels\\HomeViewModel.cs",
               "RelativeDocumentMoniker": "WPFNavigation\\ViewModels\\HomeViewModel.cs",
@@ -120,12 +94,11 @@
               "RelativeToolTip": "WPFNavigation\\ViewModels\\HomeViewModel.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T08:39:44.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T08:39:44.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "NavigationStore.cs",
               "DocumentMoniker": "C:\\Users\\toreo\\OneDrive\\Desktop\\Git\\Git solo\\2.-semester\\WPFNavigation\\WPFNavigation\\Stores\\NavigationStore.cs",
               "RelativeDocumentMoniker": "WPFNavigation\\Stores\\NavigationStore.cs",
@@ -138,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "NavigationService.cs",
               "DocumentMoniker": "C:\\Users\\toreo\\OneDrive\\Desktop\\Git\\Git solo\\2.-semester\\WPFNavigation\\WPFNavigation\\Services\\NavigationService.cs",
               "RelativeDocumentMoniker": "WPFNavigation\\Services\\NavigationService.cs",
@@ -146,12 +119,11 @@
               "RelativeToolTip": "WPFNavigation\\Services\\NavigationService.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAiwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T08:04:25.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T08:04:25.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SecondViewModel.cs",
               "DocumentMoniker": "C:\\Users\\toreo\\OneDrive\\Desktop\\Git\\Git solo\\2.-semester\\WPFNavigation\\WPFNavigation\\ViewModels\\SecondViewModel.cs",
               "RelativeDocumentMoniker": "WPFNavigation\\ViewModels\\SecondViewModel.cs",
@@ -159,12 +131,11 @@
               "RelativeToolTip": "WPFNavigation\\ViewModels\\SecondViewModel.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T08:40:06.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T08:40:06.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeView.xaml",
               "DocumentMoniker": "C:\\Users\\toreo\\OneDrive\\Desktop\\Git\\Git solo\\2.-semester\\WPFNavigation\\WPFNavigation\\Views\\HomeView.xaml",
               "RelativeDocumentMoniker": "WPFNavigation\\Views\\HomeView.xaml",
@@ -176,6 +147,30 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\toreo\\OneDrive\\Desktop\\Git\\Git solo\\2.-semester\\WPFNavigation\\WPFNavigation\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WPFNavigation\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\toreo\\OneDrive\\Desktop\\Git\\Git solo\\2.-semester\\WPFNavigation\\WPFNavigation\\App.xaml.cs",
+              "RelativeToolTip": "WPFNavigation\\App.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T08:25:27.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavigateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\toreo\\OneDrive\\Desktop\\Git\\Git solo\\2.-semester\\WPFNavigation\\WPFNavigation\\Commands\\NavigateCommand.cs",
+              "RelativeDocumentMoniker": "WPFNavigation\\Commands\\NavigateCommand.cs",
+              "ToolTip": "C:\\Users\\toreo\\OneDrive\\Desktop\\Git\\Git solo\\2.-semester\\WPFNavigation\\WPFNavigation\\Commands\\NavigateCommand.cs",
+              "RelativeToolTip": "WPFNavigation\\Commands\\NavigateCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T07:34:19.412Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
               "Title": "FirstViewModel.cs",
               "DocumentMoniker": "C:\\Users\\toreo\\OneDrive\\Desktop\\Git\\Git solo\\2.-semester\\WPFNavigation\\WPFNavigation\\ViewModels\\FirstViewModel.cs",
@@ -184,8 +179,7 @@
               "RelativeToolTip": "WPFNavigation\\ViewModels\\FirstViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T08:39:58.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T08:39:58.907Z"
             },
             {
               "$type": "Document",
@@ -197,8 +191,7 @@
               "RelativeToolTip": "WPFNavigation\\ViewModels\\BaseViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T08:40:39.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T08:40:39.062Z"
             },
             {
               "$type": "Document",
@@ -210,8 +203,7 @@
               "RelativeToolTip": "WPFNavigation\\ViewModels\\MainViewModel.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T08:23:12.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T08:23:12.142Z"
             },
             {
               "$type": "Document",
@@ -222,8 +214,7 @@
               "ToolTip": "C:\\Users\\toreo\\OneDrive\\Desktop\\Git\\Git solo\\2.-semester\\WPFNavigation\\WPFNavigation\\Views\\SecondView.xaml",
               "RelativeToolTip": "WPFNavigation\\Views\\SecondView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-11T08:35:55.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T08:35:55.409Z"
             },
             {
               "$type": "Document",

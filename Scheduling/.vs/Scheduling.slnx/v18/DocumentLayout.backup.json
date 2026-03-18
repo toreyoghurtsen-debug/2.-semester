@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\toreo\\source\\repos\\Scheduling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C108B381-C876-40ED-AA5F-16ACD838333F}|TeamA5UnitTest\\TeamA5UnitTest.csproj|c:\\users\\toreo\\source\\repos\\scheduling\\teama5unittest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C108B381-C876-40ED-AA5F-16ACD838333F}|TeamA5UnitTest\\TeamA5UnitTest.csproj|solutionrelative:teama5unittest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C731326-CC59-4A48-8C0D-5139F105FA5C}|Scheduling\\Scheduling.csproj|c:\\users\\toreo\\source\\repos\\scheduling\\scheduling\\pcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C731326-CC59-4A48-8C0D-5139F105FA5C}|Scheduling\\Scheduling.csproj|solutionrelative:scheduling\\pcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C731326-CC59-4A48-8C0D-5139F105FA5C}|Scheduling\\Scheduling.csproj|c:\\users\\toreo\\source\\repos\\scheduling\\scheduling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C731326-CC59-4A48-8C0D-5139F105FA5C}|Scheduling\\Scheduling.csproj|solutionrelative:scheduling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\toreo\\source\\repos\\Scheduling\\TeamA5UnitTest\\Test1.cs",
+              "RelativeDocumentMoniker": "TeamA5UnitTest\\Test1.cs",
+              "ToolTip": "C:\\Users\\toreo\\source\\repos\\Scheduling\\TeamA5UnitTest\\Test1.cs",
+              "RelativeToolTip": "TeamA5UnitTest\\Test1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwBsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T08:13:58.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PCB.cs",
+              "DocumentMoniker": "C:\\Users\\toreo\\source\\repos\\Scheduling\\Scheduling\\PCB.cs",
+              "RelativeDocumentMoniker": "Scheduling\\PCB.cs",
+              "ToolTip": "C:\\Users\\toreo\\source\\repos\\Scheduling\\Scheduling\\PCB.cs",
+              "RelativeToolTip": "Scheduling\\PCB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T08:09:18.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\toreo\\source\\repos\\Scheduling\\Scheduling\\Program.cs",
+              "RelativeDocumentMoniker": "Scheduling\\Program.cs",
+              "ToolTip": "C:\\Users\\toreo\\source\\repos\\Scheduling\\Scheduling\\Program.cs",
+              "RelativeToolTip": "Scheduling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T08:08:58.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

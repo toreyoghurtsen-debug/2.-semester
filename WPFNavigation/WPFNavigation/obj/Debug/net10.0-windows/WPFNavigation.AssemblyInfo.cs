@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WPFNavigation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d04cf12af193d48b20302c6c344df2c07890e5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45e875f4988a6603ecc4e8ee0650e1e4e78b769f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WPFNavigation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WPFNavigation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
